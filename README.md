@@ -38,6 +38,8 @@ The model processes input sequences through the following stages:
 3.  **BiLSTM Layer**: A 2-layer BiLSTM with 128 hidden units per direction models temporal dynamics.
 4.  **Classification Head**: The final hidden states are concatenated and passed to a dense layer for final classification.
 
+<!-- Optional: Add a simple diagram of the architecture here -->
+<!-- ![Model Architecture Diagram](architecture.png) -->
 
 ## Dataset
 This project uses the **UNSW-NB15 dataset**, a widely-used benchmark for network intrusion detection. The notebook automatically downloads the dataset in Parquet format from [KaggleHub](https://www.kaggle.com/datasets/dhoogla/unswnb15).
