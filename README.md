@@ -55,6 +55,6 @@ This project uses the **UNSW-NB15 dataset**, a widely-used benchmark for network
 ### Installation
 Clone the repository and install the required packages:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
+git clone https://github.com/rezahamzeh69/unsw-nb15-ids-bilstm-transformer.git
+cd unsw-nb15-ids-bilstm-transformer
+pip install -r requirements.txt```
