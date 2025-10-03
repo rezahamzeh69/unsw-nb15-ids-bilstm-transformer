@@ -11,18 +11,6 @@ This work demonstrates an end-to-end framework for building a high-performance I
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Running the Notebook](#running-the-notebook)
-- [Core Methodologies](#core-methodologies)
-  - [Data Preprocessing](#data-preprocessing)
-  - [Adversarial Training](#adversarial-training)
-  - [Model Interpretability](#model-interpretability)
-- [Experimental Results](#experimental-results)
-  - [Detection Performance](#detection-performance)
-  - [Adversarial Robustness](#adversarial-robustness)
-  - [Feature Importance](#feature-importance)
-- [Reproducibility](#reproducibility)
-- [Citation](#citation)
-- [License](#license)
 
 ## Key Features
 - **Hybrid Deep Learning Model**: A powerful architecture combining a **Transformer Encoder** for global context awareness and a **Bidirectional LSTM (BiLSTM)** for sequential pattern modeling.
