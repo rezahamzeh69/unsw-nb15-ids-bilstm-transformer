@@ -10,7 +10,6 @@ This work demonstrates an end-to-end framework for building a high-performance I
 - [Dataset](#dataset)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 
 ## Key Features
 - **Hybrid Deep Learning Model**: A powerful architecture combining a **Transformer Encoder** for global context awareness and a **Bidirectional LSTM (BiLSTM)** for sequential pattern modeling.
