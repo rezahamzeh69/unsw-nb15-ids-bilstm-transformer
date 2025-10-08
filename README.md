@@ -40,9 +40,3 @@ This project uses the **UNSW-NB15 dataset**, a widely-used benchmark for network
 - CUDA-enabled GPU (recommended for faster training)
 - Kaggle API credentials configured for `kagglehub` (see [Kaggle documentation](https://www.kaggle.com/docs/api))
 
-### Installation
-Clone the repository and install the required packages:
-```bash
-git clone https://github.com/rezahamzeh69/unsw-nb15-ids-bilstm-transformer.git
-cd unsw-nb15-ids-bilstm-transformer
-pip install -r requirements.txt```
